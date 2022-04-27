@@ -29,7 +29,7 @@ public class MyHolidayLights {
 		ColoredLight light = new ColoredLight(null);
 		
 		light.setOn(true);
-		//light.randomChange();
+		light.randomChange();
 		
 		
 			lightList.remove(count);
